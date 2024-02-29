@@ -5,7 +5,6 @@
 namespace ConwayGameOfLife
 {
     using System;
-    using System.Collections.Generic;
     using System.Drawing;
 
     /// <summary>
